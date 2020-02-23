@@ -23,3 +23,28 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.category1, .category2, .category3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.category1{
+    background-color: orange;
+}
+
+.category2{
+    background-color: orchid;
+}
+
+.category3{
+    background-color: rgba(0, 0, 240, 0.623);
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
