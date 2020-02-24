@@ -27,6 +27,7 @@
 .category1, .category2, .category3{
     padding: 10px 30px;
     border-radius: 10px;
+    margin-top: 10px;
 }
 
 .category1{
@@ -58,4 +59,28 @@
 .card-footer{
     background-color: white;
     border-top: none;
+}
+
+.card p{
+    text-align: justify;
+}
+.watch-paragraph img{
+    height: 500px;
+}
+
+#subscribe{
+    height: 250px;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+#subscribe-button{
+    margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 80px;
 }
